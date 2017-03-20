@@ -1,0 +1,202 @@
+{
+  "1BB": {
+    "SB":"100.0%, Any-two",
+    "BTN":"78.3%, 22+ Jx+ T2s+ T4o+ 92s+ 95o+ 84s+ 85o+ 74s+ 76o 63s+ 65o 53s+",
+    "CO":"78.3%, 22+ Qx+ J2s+ J3o+ T2s+ T5o+ 92s+ 95o+ 83s+ 85o+ 73s+ 75o+ 63s+ 65o 53s+ 43s",
+    "HJ":"78.9%, 22+ Qx+ J2s+ J3o+ T2s+ T5o+ 92s+ 95o+ 82s+ 85o+ 73s+ 75o+ 63s+ 65o 52s+ 43s",
+    "BTN3":"78.3%, 22+ Qx+ J2s+ J3o+ T2s+ T6o+ 92s+ 96o+ 82s+ 85o+ 73s+ 75o+ 63s+ 65o 52s+ 54o 42s+",
+    "BTN4":"71.6%, 22+ Kx+ Q2s+ Q3o+ J2s+ J5o+ T2s+ T6o+ 92s+ 96o+ 84s+ 86o+ 73s+ 76o 63s+ 65o 53s+ 43s",
+    "BTN5":"71.0%, 22+ Kx+ Q2s+ Q3o+ J2s+ J6o+ T2s+ T6o+ 92s+ 96o+ 84s+ 86o+ 73s+ 76o 63s+ 65o 52s+ 43s",
+    "BTN6":"65.6%, 22+ Kx+ Q2s+ Q4o+ J2s+ J7o+ T2s+ T7o+ 93s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 53s+ 43s"
+  },
+  "2BB": {
+    "SB":"94.6%, 22+ 8x+ 72s+ 73o+ 62s+ 63o+ 52s+ 53o+ 42s+ 32s",
+    "BTN":"50.5%, 22+ Kx+ Q2s+ Q6o+ J5s+ J8o+ T6s+ T8o+ 97s+ 87s",
+    "CO":"45.7%, 22+ Ax+ K2s+ K4o+ Q3s+ Q8o+ J5s+ J8o+ T6s+ T9o 97s+ 87s",
+    "HJ":"42.7%, 22+ Ax+ K2s+ K5o+ Q4s+ Q8o+ J7s+ J9o+ T7s+ T9o 97s+ 87s",
+    "BTN3":"38.8%, 22+ Ax+ K2s+ K7o+ Q5s+ Q9o+ J7s+ J9o+ T7s+ 97s+ 87s",
+    "BTN4":"33.0%, 22+ Ax+ K3s+ K9o+ Q7s+ QTo+ J8s+ JTo T8s+ 98s",
+    "BTN5":"33.0%, 22+ Ax+ K3s+ K9o+ Q7s+ QTo+ J8s+ JTo T8s+ 98s",
+    "BTN6":"31.5%, 22+ A2s+ A3o+ K4s+ K9o+ Q8s+ QTo+ J8s+ JTo T8s+ 98s"
+  },
+  "3BB": {
+    "SB":"84.6%, 22+ Tx+ 92s+ 93o+ 82s+ 84o+ 73s+ 75o+ 63s+ 65o 53s+",
+    "BTN":"45.7%, 22+ Ax+ K2s+ K3o+ Q3s+ Q8o+ J6s+ J8o+ T7s+ T9o 97s+",
+    "CO":"37.9%, 22+ Ax+ K3s+ K6o+ Q6s+ Q9o+ J8s+ J9o+ T8s+ 98s",
+    "HJ":"33.0%, 22+ Ax+ K4s+ K9o+ Q8s+ Q9o+ J8s+ JTo T8s+",
+    "BTN3":"31.8%, 22+ Ax+ K4s+ K9o+ Q8s+ QTo+ J8s+ JTo T9s",
+    "BTN4":"30.6%, 22+ A2s+ A3o+ K5s+ K9o+ Q8s+ QTo+ J8s+ JTo T9s",
+    "BTN5":"25.2%, 22+ A2s+ A7o+ A5o K6s+ KTo+ Q9s+ QTo+ J9s+ T9s",
+    "BTN6":"24.3%, 22+ A2s+ A7o+ K6s+ KTo+ Q9s+ QTo+ J9s+ T9s"
+  },
+  "4BB": {
+    "SB":"78.3%, 22+ Jx+ T2s+ T3o+ 92s+ 95o+ 83s+ 85o+ 74s+ 76o 64s+ 53s+",
+    "BTN":"41.5%, 22+ Ax+ K2s+ K4o+ Q5s+ Q8o+ J7s+ J9o+ T8s+ 98s",
+    "CO":"33.3%, 22+ Ax+ K4s+ K8o+ Q8s+ Q9o+ J9s+ JTo T9s",
+    "HJ":"32.7%, 22+ Ax+ K4s+ K8o+ Q8s+ QTo+ J8s+ JTo T9s",
+    "BTN3":"29.1%, 22+ A2s+ A3o+ K6s+ K9o+ Q8s+ QTo+ J9s+ T9s",
+    "BTN4":"25.8%, 22+ A2s+ A4o+ K7s+ KTo+ Q9s+ QJo J9s+ T9s",
+    "BTN5":"24.0%, 22+ A2s+ A7o+ A5o K7s+ KTo+ Q9s+ QJo J9s+ T9s",
+    "BTN6":"20.4%, 22+ A2s+ A8o+ K9s+ KTo+ Q9s+ JTs T9s"
+  },
+  "5BB": {
+    "SB":"74.1%, 22+ Jx+ T2s+ T5o+ 93s+ 96o+ 84s+ 86o+ 74s+ 76o 64s+ 53s+",
+    "BTN":"39.1%, 22+ Ax+ K2s+ K5o+ Q6s+ Q9o+ J8s+ JTo T8s+ 97s+ 87s 76s",
+    "CO":"33.0%, 22+ Ax+ K3s+ K9o+ Q8s+ QTo+ J8s+ JTo T8s+ 98s 87s",
+    "HJ":"30.3%, 22+ Ax+ K6s+ K9o+ Q9s+ QTo+ J9s+ T8s+ 98s",
+    "BTN3":"26.4%, 22+ A2s+ A4o+ K7s+ KTo+ Q9s+ QJo J9s+ T8s+ 98s",
+    "BTN4":"22.5%, 22+ A2s+ A8o+ K7s+ KTo+ Q9s+ QJo J9s+ T9s 98s",
+    "BTN5":"19.8%, 22+ A2s+ A9o+ K9s+ KJo+ Q9s+ QJo J9s+ T9s",
+    "BTN6":"17.6%, 22+ A3s+ ATo+ K9s+ KJo+ Q9s+ J9s+ T9s"
+  },
+  "6BB": {
+    "SB":"70.1%, 22+ Qx+ J2s+ J4o+ T2s+ T6o+ 94s+ 97o+ 84s+ 86o+ 74s+ 76o 64s+ 53s+",
+    "BTN":"37.6%, 22+ Ax+ K2s+ K7o+ Q6s+ Q9o+ J8s+ JTo T7s+ 97s+ 87s 76s",
+    "CO":"33.0%, 22+ Ax+ K5s+ K9o+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 87s 76s",
+    "HJ":"27.0%, 22+ A2s+ A3o+ K8s+ KTo+ Q9s+ QJo J9s+ T8s+ 98s",
+    "BTN3":"24.3%, 22+ A2s+ A8o+ K7s+ KTo+ Q9s+ QJo J8s+ JTo T8s+ 98s 87s",
+    "BTN4":"19.8%, 22+ A2s+ A9o+ K9s+ KJo+ Q9s+ QJo J9s+ T9s",
+    "BTN5":"18.3%, 22+ A7s+ A5s-A3s ATo+ K9s+ KJo+ Q9s+ QJo J9s+ T9s",
+    "BTN6":"15.5%, 22+ A8s+ A5s-A4s ATo+ K9s+ KQo Q9s+ JTs T9s"
+  },
+  "7BB": {
+    "SB":"66.2%, 22+ Qx+ J2s+ J6o+ T3s+ T7o+ 95s+ 97o+ 84s+ 87o 74s+ 76o 64s+ 53s+ 43s",
+    "BTN":"36.7%, 22+ Ax+ K2s+ K8o+ Q6s+ QTo+ J7s+ JTo T7s+ 97s+ 86s+ 76s 65s",
+    "CO":"30.0%, 22+ Ax+ K6s+ KTo+ Q9s+ QTo+ J8s+ T8s+ 98s 87s",
+    "HJ":"26.1%, 22+ A2s+ A7o+ A5o K7s+ KTo+ Q9s+ QJo J8s+ JTo T8s+ 98s 87s",
+    "BTN3":"20.7%, 22+ A2s+ A9o+ K9s+ KJo+ Q9s+ QJo J8s+ T8s+ 98s",
+    "BTN4":"18.3%, 22+ A7s+ A5s-A3s ATo+ K9s+ KJo+ Q9s+ QJo J9s+ T9s",
+    "BTN5":"15.5%, 22+ A8s+ A5s ATo+ K9s+ KQo Q9s+ J9s+ T9s",
+    "BTN6":"13.6%, 33+ A8s+ A5s AJo+ K9s+ KQo QTs+ JTs T9s"
+  },
+  "8BB": {
+    "SB":"62.6%, 22+ Kx+ Q2s+ Q3o+ J2s+ J7o+ T4s+ T7o+ 95s+ 97o+ 85s+ 87o 74s+ 64s+ 53s+",
+    "BTN":"35.7%, 22+ Ax+ K3s+ K9o+ Q8s+ QTo+ J7s+ JTo T7s+ T9o 97s+ 86s+ 76s 65s",
+    "CO":"28.2%, 22+ Ax+ K8s+ KTo+ Q9s+ QJo J9s+ T8s+ 98s 87s",
+    "HJ":"23.4%, 22+ A2s+ A8o+ K9s+ KTo+ Q9s+ QJo J8s+ JTo T8s+ 98s",
+    "BTN3":"19.8%, 22+ A2s+ ATo+ K8s+ KJo+ Q9s+ QJo J9s+ T8s+ 98s",
+    "BTN4":"15.8%, 22+ A8s+ A5s-A4s ATo+ K9s+ KQo Q9s+ J9s+ T9s",
+    "BTN5":"13.6%, 33+ A9s+ ATo+ K9s+ KQo QTs+ JTs",
+    "BTN6":"10.3%, 55+ ATs+ AJo+ KTs+ QTs+ JTs"
+  },
+  "9BB": {
+    "SB":"58.7%, 22+ Kx+ Q2s+ Q5o+ J2s+ J8o+ T5s+ T8o+ 95s+ 97o+ 85s+ 87o 74s+ 64s+ 53s+",
+    "BTN":"33.6%, 22+ Ax+ K5s+ K9o+ Q8s+ QTo+ J8s+ JTo T7s+ 97s+ 86s+ 76s",
+    "CO":"28.2%, 22+ A2s+ A3o+ K9s+ KTo+ Q9s+ QJo J8s+ JTo T8s+ 98s 87s",
+    "HJ":"20.7%, 22+ A2s+ A9o+ K8s+ KJo+ Q9s+ QJo J9s+ T8s+ 98s",
+    "BTN3":"17.6%, 22+ A8s+ A5s-A4s ATo+ K9s+ KJo+ Q9s+ QJo J9s+ T9s",
+    "BTN4":"14.6%, 22+ A9s+ A5s ATo+ K9s+ KQo QTs+ JTs T9s",
+    "BTN5":"12.1%, 55+ A9s+ A5s AJo+ K9s+ KQo QTs+ JTs",
+    "BTN6":"10.4%, 88+ A9s+ A5s AJo+ KTs+ KQo QTs+ JTs"
+  },
+  "10BB": {
+    "SB":"56.6%, 22+ Kx+ Q2s+ Q7o+ J3s+ J8o+ T5s+ T8o+ 95s+ 97o+ 85s+ 87o 74s+ 64s+ 53s+",
+    "BTN":"31.8%, 22+ Ax+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 87s 76s",
+    "CO":"27.3%, 22+ A2s+ A7o+ A5o K7s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 98s 87s",
+    "HJ":"19.8%, 22+ A7s+ A5s-A3s ATo+ K8s+ KJo+ Q8s+ QJo J8s+ T8s+ 98s",
+    "BTN3":"15.8%, 22+ A8s+ A5s-A4s ATo+ K9s+ KQo Q9s+ J9s+ T9s",
+    "BTN4":"13.6%, 33+ A9s+ A5s AJo+ K9s+ KQo QTs+ J9s+ T9s",
+    "BTN5":"10.3%, 55+ ATs+ AJo+ KTs+ QTs+ JTs",
+    "BTN6":"9.0%, 99+ A9s+ A5s AJo+ KTs+ QTs+ JTs"
+  },
+  "11BB": {
+    "SB":"54.4%, 22+ Kx+ Q2s+ Q8o+ J4s+ J8o+ T5s+ T8o+ 95s+ 98o 85s+ 87o 74s+ 64s+ 53s+",
+    "BTN":"31.5%, 22+ Ax+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 87s",
+    "CO":"24.3%, 22+ A2s+ A8o+ K8s+ KTo+ Q8s+ QJo J8s+ JTo T8s+ 98s 87s",
+    "HJ":"17.6%, 22+ A8s+ A5s ATo+ K9s+ KJo+ Q9s+ QJo J9s+ T9s 98s",
+    "BTN3":"14.3%, 22+ A9s+ A5s ATo+ K9s+ KQo QTs+ JTs",
+    "BTN4":"11.3%, 44+ A9s+ A5s AJo+ KTs+ QTs+ JTs",
+    "BTN5":"10.0%, 99+ A9s+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN6":"8.9%, TT+ ATs+ A5s AJo+ KTs+ KQo QTs+"
+  },
+  "12BB": {
+    "SB":"51.4%, 22+ Ax+ K2s+ K3o+ Q2s+ Q8o+ J5s+ J9o+ T6s+ T8o+ 95s+ 98o 85s+ 87o 75s+ 64s+ 54s",
+    "BTN":"31.8%, 22+ Ax+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 87s 76s",
+    "CO":"22.5%, 22+ A2s+ A9o+ K9s+ KTo+ Q9s+ QJo J8s+ JTo T8s+ 98s",
+    "HJ":"16.7%, 22+ A8s+ A5s-A4s ATo+ K9s+ KJo+ Q9s+ J9s+ T9s",
+    "BTN3":"13.6%, 33+ A9s+ A5s AJo+ K9s+ KQo QTs+ J9s+ T9s",
+    "BTN4":"11.2%, 88+ 66 A9s+ A5s-A4s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN5":"8.4%, 99+ ATs+ A5s AJo+ KTs+ QTs+",
+    "BTN6":"7.1%, TT+ ATs+ AJo+ KJs+ QJs"
+  },
+  "13BB": {
+    "SB":"49.0%, 22+ Ax+ K2s+ K4o+ Q3s+ Q8o+ J5s+ J9o+ T6s+ T8o+ 96s+ 98o 85s+ 75s+ 64s+ 54s",
+    "BTN":"31.5%, 22+ Ax+ K7s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 87s 76s",
+    "CO":"20.1%, 22+ A7s+ A5s-A3s A9o+ K8s+ KJo+ Q9s+ QJo J9s+ T8s+ 98s",
+    "HJ":"14.9%, 22+ A9s+ A5s ATo+ K9s+ KQo Q9s+ JTs T9s",
+    "BTN3":"13.0%, 55+ A9s+ A5s AJo+ K9s+ KJo+ QTs+ JTs",
+    "BTN4":"10.4%, 88+ A9s+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN5":"7.4%, TT+ ATs+ AJo+ KTs+ QJs",
+    "BTN6":"5.9%, TT+ ATs+ AQo+ KJs+"
+  },
+  "14BB": {
+    "SB":"49.0%, 22+ Ax+ K2s+ K5o+ Q4s+ Q9o+ J5s+ J8o+ T6s+ T8o+ 95s+ 98o 85s+ 87o 75s+ 64s+ 54s",
+    "BTN":"30.6%, 22+ A2s+ A3o+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 87s",
+    "CO":"19.8%, 22+ A7s+ A5s-A3s ATo+ K8s+ KJo+ Q8s+ QJo J8s+ T8s+ 98s",
+    "HJ":"14.6%, 22+ A9s+ A5s-A4s AJo+ K9s+ KQo Q9s+ J9s+ T9s",
+    "BTN3":"11.3%, 44+ A9s+ A5s AJo+ KTs+ QTs+ JTs",
+    "BTN4":"9.7%, 99+ ATs+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN5":"7.4%, TT+ ATs+ AJo+ KTs+ QJs",
+    "BTN6":"6.8%, TT+ ATs+ AJo+ KJs+"
+  },
+  "15BB": {
+    "SB":"45.7%, 22+ Ax+ K2s+ K6o+ Q4s+ Q9o+ J6s+ J9o+ T6s+ T8o+ 96s+ 98o 85s+ 75s+ 64s+ 54s",
+    "BTN":"29.4%, 22+ A2s+ A5o+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T7s+ 97s+ 87s 76s",
+    "CO":"18.6%, 22+ A7s+ A5s-A4s ATo+ K8s+ KJo+ Q9s+ QJo J9s+ T9s 98s",
+    "HJ":"15.2%, 22+ A9s+ A5s ATo+ K9s+ KQo Q9s+ J9s+ T9s",
+    "BTN3":"11.3%, 88+ A8s+ A5s-A3s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN4":"8.3%, TT+ ATs+ AJo+ KTs+ KQo QJs",
+    "BTN5":"7.1%, TT+ ATs+ AJo+ KJs+ QJs",
+    "BTN6":"5.9%, TT+ ATs+ AQo+ KJs+"
+  },
+  "16BB": {
+    "SB":"43.3%, 22+ Ax+ K2s+ K7o+ Q5s+ Q9o+ J6s+ J9o+ T6s+ T9o 96s+ 98o 85s+ 75s+ 65s 54s",
+    "BTN":"28.2%, 22+ A2s+ A7o+ A5o-A4o K7s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 98s 87s",
+    "CO":"17.6%, 22+ A8s+ A5s-A4s ATo+ K9s+ KJo+ Q9s+ QJo J9s+ T9s",
+    "HJ":"13.6%, 33+ A9s+ A5s-A4s AJo+ K9s+ KQo QTs+ JTs T9s",
+    "BTN3":"10.0%, 99+ A9s+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN4":"7.4%, TT+ ATs+ AJo+ KTs+ QJs",
+    "BTN5":"6.8%, TT+ ATs+ AJo+ KJs+",
+    "BTN6":"6.3%, JJ+ ATs+ AJo+ KJs+"
+  },
+  "17BB": {
+    "SB":"43.3%, 22+ Ax+ K2s+ K8o+ Q5s+ Q9o+ J6s+ J9o+ T6s+ T8o+ 96s+ 98o 85s+ 75s+ 65s 54s",
+    "BTN":"25.2%, 22+ A2s+ A8o+ K7s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 98s",
+    "CO":"16.7%, 22+ A8s+ A5s-A4s ATo+ K9s+ KJo+ Q9s+ J9s+ T9s",
+    "HJ":"11.8%, 55+ A9s+ AJo+ K9s+ KQo QTs+ JTs",
+    "BTN3":"9.7%, 99+ ATs+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN4":"5.9%, TT+ ATs+ AQo+ KJs+",
+    "BTN5":"6.8%, TT+ ATs+ AJo+ KJs+",
+    "BTN6":"6.3%, JJ+ ATs+ AJo+ KJs+"
+  },
+  "18BB": {
+    "SB":"42.1%, 22+ Ax+ K2s+ K8o+ Q5s+ Q9o+ J6s+ J9o+ T6s+ T9o 96s+ 98o 85s+ 75s+ 65s 54s",
+    "BTN":"25.2%, 22+ A2s+ A8o+ K7s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 98s",
+    "CO":"15.5%, 22+ A8s+ A5s ATo+ K9s+ KQo Q9s+ J9s+ T9s",
+    "HJ":"11.8%, 55+ A9s+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN3":"7.5%, 99+ ATs+ A5s AQo+ KTs+ QTs+",
+    "BTN4":"7.4%, TT+ ATs+ AJo+ KTs+ QJs",
+    "BTN5":"6.3%, JJ+ ATs+ AJo+ KJs+",
+    "BTN6":"6.3%, JJ+ ATs+ AJo+ KJs+"
+  },
+  "19BB": {
+    "SB":"40.9%, 22+ Ax+ K2s+ K9o+ Q5s+ Q9o+ J7s+ J9o+ T6s+ T9o 96s+ 98o 86s+ 75s+ 65s 54s",
+    "BTN":"23.4%, 22+ A7s+ A5s-A3s A9o+ K8s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 98s",
+    "CO":"15.2%, 22+ A9s+ A5s ATo+ K9s+ KQo Q9s+ J9s+ T9s",
+    "HJ":"10.4%, 88+ A9s+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN3":"7.4%, TT+ ATs+ AJo+ KTs+ QJs",
+    "BTN4":"6.8%, TT+ ATs+ AJo+ KJs+",
+    "BTN5":"6.3%, JJ+ ATs+ AJo+ KJs+",
+    "BTN6":"6.3%, JJ+ ATs+ AJo+ KJs+"
+  },
+  "20BB": {
+    "SB":"40.9%, 22+ Ax+ K3s+ K9o+ Q5s+ Q9o+ J6s+ J9o+ T6s+ T9o 96s+ 98o 86s+ 75s+ 65s 54s",
+    "BTN":"22.8%, 22+ A3s+ A9o+ K8s+ KTo+ Q8s+ QJo J8s+ JTo T8s+ 98s",
+    "CO":"13.7%, 22+ A9s+ A5s AJo+ K9s+ KQo QTs+ JTs T9s",
+    "HJ":"10.4%, 88+ A9s+ A5s AJo+ KTs+ KQo QTs+ JTs",
+    "BTN3":"7.1%, TT+ ATs+ AJo+ KJs+ QJs",
+    "BTN4":"6.8%, TT+ ATs+ AJo+ KJs+",
+    "BTN5":"6.3%, JJ+ ATs+ AJo+ KJs+",
+    "BTN6":"5.9%, QQ+ ATs+ A5s-A2s AQo+ KQs"
+  }
+}
